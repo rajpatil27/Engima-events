@@ -41,8 +41,10 @@ export function SiteFooter() {
           </ul>
         </div>
       </div>
-      <div className="border-t border-border py-6 text-center text-xs text-muted-foreground">
-        © 2026 EnigmaEvents · Built by Team B · MMIT Pune
+      <div className="border-t border-border py-6 text-center text-xs text-muted-foreground space-y-1 px-4">
+        <p>© 2026 Enigma Events | All Rights Reserved</p>
+        <p>Created by Dr. P. B. Dhamdhere</p>
+        <p>Designed & Developed for innovation and learning</p>
       </div>
     </footer>
   );
